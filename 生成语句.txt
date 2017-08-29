@@ -1,1 +1,4 @@
 mybatis-generator:generate -e
+
+
+insert 语句后面主键自增useGeneratedKeys="true" keyProperty="id"
